@@ -1,15 +1,15 @@
 {
   "name": "jellyfin",
   "type": "module",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "Official Roku app for Jellyfin media server",
   "dependencies": {
     "@rokucommunity/bslib": "0.1.1",
     "brighterscript-formatter": "1.7.15"
   },
   "devDependencies": {
-    "@rokucommunity/bslint": "0.8.32",
-    "brighterscript": "0.69.10",
+    "@rokucommunity/bslint": "0.8.33",
+    "brighterscript": "0.69.11",
     "jshint": "2.13.6",
     "rimraf": "6.0.1",
     "roku-deploy": "3.12.6",
